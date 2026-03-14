@@ -13,6 +13,6 @@
     "email": "spencer.bruce@microfocus.com"
   },
   "dependencies": {
-    "@microfocus/alm-octane-js-rest-sdk": "15.0.20"
+    "@microfocus/alm-octane-js-rest-sdk": "26.1.0"
   }
 }
